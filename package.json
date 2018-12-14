@@ -1,6 +1,6 @@
 {
   "name": "yl-ai",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "AI自然语言分析核心代码,估值一个亿",
   "main": "./src/index.js",
   "scripts": {
