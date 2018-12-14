@@ -1,0 +1,25 @@
+{
+  "name": "yl-ai",
+  "version": "0.0.1",
+  "description": "AI自然语言分析核心代码,估值一个亿",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuri2peter/yl-ai.git"
+  },
+  "keywords": [
+    "yuri2"
+  ],
+  "author": "yuri2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuri2peter/yl-ai/issues"
+  },
+  "homepage": "https://github.com/yuri2peter/yl-ai#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
